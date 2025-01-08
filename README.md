@@ -1,4 +1,4 @@
-# UAS-Data-Mining
+# Data-Mining
 
 ## Deskripsi Proyek:
 Ini adalah proyek besar dari mata kuliah 'Data Mining' saya, yang menggunakan algoritma Naïve Bayes untuk menganalisis dataset tentang tingkat pendidikan penduduk desa di Jawa Barat, yang bersumber dari opendata.jabarprov.go.id. Orange Data Mining digunakan sebagai alat bantu dalam analisis.
